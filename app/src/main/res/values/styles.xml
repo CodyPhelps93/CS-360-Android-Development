@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Style for blue text -->
+    <style name="BlueText">
+        <item name="android:textColor">@color/blue</item>
+    </style>
+
+    <!-- Style for white button text and blue button background -->
+    <style name="BlueButton">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@color/blue</item>
+    </style>
+</resources>
